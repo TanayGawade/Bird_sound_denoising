@@ -41,4 +41,5 @@ The research is inspired by:
 - Visualizations show improvements across epochs.
 ![image](https://github.com/user-attachments/assets/7f435532-c8d3-4890-abd5-9599a894fbb0)
 
+![image](https://github.com/user-attachments/assets/3a737b6c-3a5e-40e1-986d-fb57ec708f6f)
 
