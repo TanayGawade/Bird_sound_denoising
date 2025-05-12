@@ -4,7 +4,7 @@ Bird Sound Denoising Using Residual Blocks in a U-Net Architecture
 
 This project focuses on building an **image segmentation model** using PyTorch, designed to denoise bird sound spectrograms. The model is trained on a custom bird sound dataset, leveraging residual blocks within a U-Net architecture to improve denoising performance.
 
-The research is inspired by:  
+You can read the research at:  
 [Bird Sound Denoising Using Residual Blocks in a U-Net Architecture – ResearchGate](https://www.researchgate.net/publication/387186976_Bird_Sound_Denoising_Using_Residual_Blocks_in_a_U-Net_Architecture)
 
 
